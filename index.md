@@ -31,7 +31,7 @@ title: Student Blog
 
 
 <div class="container">
-<div class="top-right">Overall, I hope I will be able to get a good grade in this class, no matter how much time it takes. It may be a slow start to learn all about the terminal and basic coding fundamentals, but I will eventually be able to show that I am capable of being a good coder! :D</div>
+<div class="top-right">Overall, I hope I will be able to get a good grade in this class, no matter how much time that I will have to spend in and out of class. It may be a slow start to learn all about the terminal and basic coding fundamentals, but I will eventually be able to show that I am capable of being a good coder! :D</div>
 </div>
 
 ## Overview of Hacks, Study and Tangibles
